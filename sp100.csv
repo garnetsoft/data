@@ -1,0 +1,102 @@
+,Symbol,Name,ticker
+0,AAPL,Apple Inc.,AAPL
+1,ABBV,AbbVie Inc.,ABBV
+2,ABT,Abbott Laboratories,ABT
+3,ACN,Accenture,ACN
+4,ADBE,Adobe Inc.,ADBE
+5,AGN,Allergan,AGN
+6,AIG,American International Group,AIG
+7,ALL,Allstate,ALL
+8,AMGN,Amgen Inc.,AMGN
+9,AMT,American Tower,AMT
+10,AMZN,Amazon.com,AMZN
+11,AXP,American Express,AXP
+12,BA,Boeing Co.,BA
+13,BAC,Bank of America Corp,BAC
+14,BIIB,Biogen,BIIB
+15,BK,The Bank of New York Mellon,BK
+16,BKNG,Booking Holdings,BKNG
+17,BLK,BlackRock Inc,BLK
+18,BMY,Bristol-Myers Squibb,BMY
+19,BRK.B,Berkshire Hathaway,BRK.B
+20,C,Citigroup Inc,C
+21,CAT,Caterpillar Inc.,CAT
+22,CHTR,Charter Communications,CHTR
+23,CL,Colgate-Palmolive,CL
+24,CMCSA,Comcast Corp.,CMCSA
+25,COF,Capital One Financial Corp.,COF
+26,COP,ConocoPhillips,COP
+27,COST,Costco Wholesale Corp.,COST
+28,CSCO,Cisco Systems,CSCO
+29,CVS,CVS Health,CVS
+30,CVX,Chevron Corporation,CVX
+31,DD,DuPont de Nemours Inc,DD
+32,DHR,Danaher Corporation,DHR
+33,DIS,The Walt Disney Company,DIS
+34,DOW,Dow Inc.,DOW
+35,DUK,Duke Energy,DUK
+36,EMR,Emerson Electric Co.,EMR
+37,EXC,Exelon,EXC
+38,F,Ford Motor Company,F
+39,FB,"Facebook, Inc.",FB
+40,FDX,FedEx,FDX
+41,GD,General Dynamics,GD
+42,GE,General Electric,GE
+43,GILD,Gilead Sciences,GILD
+44,GM,General Motors,GM
+45,GOOG,Alphabet Inc. (Class C),GOOG
+46,GOOGL,Alphabet Inc. (Class A),GOOGL
+47,GS,Goldman Sachs,GS
+48,HD,Home Depot,HD
+49,HON,Honeywell,HON
+50,IBM,International Business Machines,IBM
+51,INTC,Intel Corp.,INTC
+52,JNJ,Johnson & Johnson,JNJ
+53,JPM,JPMorgan Chase & Co.,JPM
+54,KHC,Kraft Heinz,KHC
+55,KMI,Kinder Morgan,KMI
+56,KO,The Coca-Cola Company,KO
+57,LLY,Eli Lilly and Company,LLY
+58,LMT,Lockheed Martin,LMT
+59,LOW,Lowe's,LOW
+60,MA,MasterCard Inc,MA
+61,MCD,McDonald's Corp,MCD
+62,MDLZ,Mondelēz International,MDLZ
+63,MDT,Medtronic plc,MDT
+64,MET,MetLife Inc.,MET
+65,MMM,3M Company,MMM
+66,MO,Altria Group,MO
+67,MRK,Merck & Co.,MRK
+68,MS,Morgan Stanley,MS
+69,MSFT,Microsoft,MSFT
+70,NEE,NextEra Energy,NEE
+71,NFLX,Netflix,NFLX
+72,NKE,"Nike, Inc.",NKE
+73,NVDA,NVIDIA Corp.,NVDA
+74,ORCL,Oracle Corporation,ORCL
+75,OXY,Occidental Petroleum Corp.,OXY
+76,PEP,PepsiCo,PEP
+77,PFE,Pfizer Inc,PFE
+78,PG,Procter & Gamble Co,PG
+79,PM,Philip Morris International,PM
+80,PYPL,PayPal Holdings,PYPL
+81,QCOM,Qualcomm Inc.,QCOM
+82,RTX,Raytheon Technologies,RTX
+83,SBUX,Starbucks Corp.,SBUX
+84,SLB,Schlumberger,SLB
+85,SO,Southern Company,SO
+86,SPG,"Simon Property Group, Inc.",SPG
+87,T,AT&T Inc,T
+88,TGT,Target Corporation,TGT
+89,TMO,Thermo Fisher Scientific,TMO
+90,TXN,Texas Instruments,TXN
+91,UNH,UnitedHealth Group,UNH
+92,UNP,Union Pacific Corporation,UNP
+93,UPS,United Parcel Service,UPS
+94,USB,U.S. Bancorp,USB
+95,V,Visa Inc.,V
+96,VZ,Verizon Communications,VZ
+97,WBA,Walgreens Boots Alliance,WBA
+98,WFC,Wells Fargo,WFC
+99,WMT,Walmart,WMT
+100,XOM,Exxon Mobil Corp.,XOM

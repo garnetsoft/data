@@ -1,0 +1,31 @@
+,Company,Exchange,Symbol,Industry,Date Added,Notes,"Index Weighting (Apr 30, 2020)",ticker
+0,3M,NYSE,NYSE: MMM,Conglomerate,1976-08-09,as Minnesota Mining and Manufacturing,4.35%, MMM
+1,American Express,NYSE,NYSE: AXP,Financial services,1982-08-30,,2.68%, AXP
+2,Apple Inc.,NASDAQ,AAPL,Information technology,2015-03-19,,8.01%,AAPL
+3,Boeing,NYSE,NYSE: BA,Aerospace and defense,1987-03-12,,3.87%, BA
+4,Caterpillar Inc.,NYSE,NYSE: CAT,Construction and Mining,1991-05-06,,3.34%, CAT
+5,Chevron Corporation,NYSE,NYSE: CVX,Petroleum industry,2008-02-19,also 1930-07-18 to 1999-11-01,2.63%, CVX
+6,Cisco Systems,NASDAQ,CSCO,Information technology,2009-06-08,,1.21%,CSCO
+7,The Coca-Cola Company,NYSE,NYSE: KO,Food industry,1987-03-12,also 1932-05-26 to 1935-11-20,1.31%, KO
+8,Dow Inc.,NYSE,NYSE: DOW,Chemical industry,2019-04-02,,1.04%, DOW
+9,ExxonMobil,NYSE,NYSE: XOM,Petroleum industry,1928-10-01,as Standard Oil of New Jersey,1.32%, XOM
+10,Goldman Sachs,NYSE,NYSE: GS,Financial services,2013-09-20,,5.29%, GS
+11,The Home Depot,NYSE,NYSE: HD,Retailing,1999-11-01,,6.17%, HD
+12,IBM,NYSE,NYSE: IBM,Information technology,1979-06-29,also 1932-05-26 to 1939-03-04,3.58%, IBM
+13,Intel,NASDAQ,INTC,Information technology,1999-11-01,,1.72%,INTC
+14,Johnson & Johnson,NYSE,NYSE: JNJ,Pharmaceutical industry,1997-03-17,,4.18%, JNJ
+15,JPMorgan Chase,NYSE,NYSE: JPM,Financial services,1991-05-06,,2.72%, JPM
+16,McDonald's,NYSE,NYSE: MCD,Food industry,1985-10-30,,5.23%, MCD
+17,Merck & Co.,NYSE,NYSE: MRK,Pharmaceutical industry,1979-06-29,,2.25%, MRK
+18,Microsoft,NASDAQ,MSFT,Information technology,1999-11-01,,4.94%,MSFT
+19,Nike,NYSE,NYSE: NKE,Apparel,2013-09-20,,2.45%, NKE
+20,Pfizer,NYSE,NYSE: PFE,Pharmaceutical industry,2004-04-08,,1.06%, PFE
+21,Procter & Gamble,NYSE,NYSE: PG,Fast-moving consumer goods,1932-05-26,,3.26%, PG
+22,Raytheon Technologies,NYSE,NYSE: RTX,Aerospace and defense,1939-03-14,"as United Aircraft, later transformed into United Technologies. Merged with Raytheon Company into Raytheon Technologies on April 3, 2020.",1.89%, RTX
+23,The Travelers Companies,NYSE,NYSE: TRV,Financial services,2009-06-08,,2.95%, TRV
+24,UnitedHealth Group,NYSE,NYSE: UNH,Managed health care,2012-09-24,,8.01%, UNH
+25,Verizon,NYSE,NYSE: VZ,Telecommunication,2004-04-08,,1.62%, VZ
+26,Visa Inc.,NYSE,NYSE: V,Financial services,2013-09-20,,5.06%, V
+27,Walmart,NYSE,NYSE: WMT,Retailing,1997-03-17,,3.44%, WMT
+28,Walgreens Boots Alliance,NASDAQ,WBA,Retailing,2018-06-26,,1.26%,WBA
+29,The Walt Disney Company,NYSE,NYSE: DIS,Broadcasting and entertainment,1991-05-06,,3.12%, DIS
